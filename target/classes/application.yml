@@ -3,3 +3,9 @@ spring:
     name: travel
   banner:
     location: banner.txt
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://112.124.24.102:3306/travel?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: '050416'
+

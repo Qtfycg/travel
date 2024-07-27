@@ -12,5 +12,4 @@ public class TravelApplication {
         SpringApplication.run(TravelApplication.class, args);
         log.info("-----------项目后端启动成功----------");
     }
-
 }
